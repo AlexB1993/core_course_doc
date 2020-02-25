@@ -1,0 +1,21 @@
+E:\PROJEKT\Курсы Core\git_singleton\singleton\singleton\example4\bin\Debug\netcoreapp2.2\example4.deps.json
+E:\PROJEKT\Курсы Core\git_singleton\singleton\singleton\example4\bin\Debug\netcoreapp2.2\example4.runtimeconfig.json
+E:\PROJEKT\Курсы Core\git_singleton\singleton\singleton\example4\bin\Debug\netcoreapp2.2\example4.runtimeconfig.dev.json
+E:\PROJEKT\Курсы Core\git_singleton\singleton\singleton\example4\bin\Debug\netcoreapp2.2\example4.dll
+E:\PROJEKT\Курсы Core\git_singleton\singleton\singleton\example4\bin\Debug\netcoreapp2.2\example4.pdb
+E:\PROJEKT\Курсы Core\git_singleton\singleton\singleton\example4\obj\Debug\netcoreapp2.2\example4.csprojAssemblyReference.cache
+E:\PROJEKT\Курсы Core\git_singleton\singleton\singleton\example4\obj\Debug\netcoreapp2.2\example4.csproj.CoreCompileInputs.cache
+E:\PROJEKT\Курсы Core\git_singleton\singleton\singleton\example4\obj\Debug\netcoreapp2.2\example4.AssemblyInfoInputs.cache
+E:\PROJEKT\Курсы Core\git_singleton\singleton\singleton\example4\obj\Debug\netcoreapp2.2\example4.AssemblyInfo.cs
+E:\PROJEKT\Курсы Core\git_singleton\singleton\singleton\example4\obj\Debug\netcoreapp2.2\example4.dll
+E:\PROJEKT\Курсы Core\git_singleton\singleton\singleton\example4\obj\Debug\netcoreapp2.2\example4.pdb
+C:\0_Projects\course\singleton\example4\bin\Debug\netcoreapp2.2\example4.deps.json
+C:\0_Projects\course\singleton\example4\bin\Debug\netcoreapp2.2\example4.runtimeconfig.json
+C:\0_Projects\course\singleton\example4\bin\Debug\netcoreapp2.2\example4.runtimeconfig.dev.json
+C:\0_Projects\course\singleton\example4\bin\Debug\netcoreapp2.2\example4.dll
+C:\0_Projects\course\singleton\example4\bin\Debug\netcoreapp2.2\example4.pdb
+C:\0_Projects\course\singleton\example4\obj\Debug\netcoreapp2.2\example4.csprojAssemblyReference.cache
+C:\0_Projects\course\singleton\example4\obj\Debug\netcoreapp2.2\example4.AssemblyInfoInputs.cache
+C:\0_Projects\course\singleton\example4\obj\Debug\netcoreapp2.2\example4.AssemblyInfo.cs
+C:\0_Projects\course\singleton\example4\obj\Debug\netcoreapp2.2\example4.dll
+C:\0_Projects\course\singleton\example4\obj\Debug\netcoreapp2.2\example4.pdb

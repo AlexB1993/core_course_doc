@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\0_Projects\\course\\singleton\\example3\\example3.csproj": {}
+  },
+  "projects": {
+    "C:\\0_Projects\\course\\singleton\\example3\\example3.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\0_Projects\\course\\singleton\\example3\\example3.csproj",
+        "projectName": "example3",
+        "projectPath": "C:\\0_Projects\\course\\singleton\\example3\\example3.csproj",
+        "packagesPath": "C:\\Users\\bozhko\\.nuget\\packages\\",
+        "outputPath": "C:\\0_Projects\\course\\singleton\\example3\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\bozhko\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "\\\\192.168.3.67\\NuGetStorages\\FastReport": {},
+          "\\\\192.168.3.67\\NuGetStorages\\PlatformFinanceNetCore": {},
+          "\\\\192.168.3.67\\NuGetStorages\\PlatformNetCore": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
