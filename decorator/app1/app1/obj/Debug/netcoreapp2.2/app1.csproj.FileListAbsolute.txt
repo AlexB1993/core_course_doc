@@ -1,0 +1,11 @@
+C:\0_Projects\documents\core_course_doc\decorator\app1\app1\bin\Debug\netcoreapp2.2\app1.deps.json
+C:\0_Projects\documents\core_course_doc\decorator\app1\app1\bin\Debug\netcoreapp2.2\app1.runtimeconfig.json
+C:\0_Projects\documents\core_course_doc\decorator\app1\app1\bin\Debug\netcoreapp2.2\app1.runtimeconfig.dev.json
+C:\0_Projects\documents\core_course_doc\decorator\app1\app1\bin\Debug\netcoreapp2.2\app1.dll
+C:\0_Projects\documents\core_course_doc\decorator\app1\app1\bin\Debug\netcoreapp2.2\app1.pdb
+C:\0_Projects\documents\core_course_doc\decorator\app1\app1\obj\Debug\netcoreapp2.2\app1.csprojAssemblyReference.cache
+C:\0_Projects\documents\core_course_doc\decorator\app1\app1\obj\Debug\netcoreapp2.2\app1.csproj.CoreCompileInputs.cache
+C:\0_Projects\documents\core_course_doc\decorator\app1\app1\obj\Debug\netcoreapp2.2\app1.AssemblyInfoInputs.cache
+C:\0_Projects\documents\core_course_doc\decorator\app1\app1\obj\Debug\netcoreapp2.2\app1.AssemblyInfo.cs
+C:\0_Projects\documents\core_course_doc\decorator\app1\app1\obj\Debug\netcoreapp2.2\app1.dll
+C:\0_Projects\documents\core_course_doc\decorator\app1\app1\obj\Debug\netcoreapp2.2\app1.pdb
