@@ -1,0 +1,11 @@
+C:\0_Projects\documents\core_course_doc\decorator\app1\Pizza\bin\Debug\netcoreapp3.1\Pizza.exe
+C:\0_Projects\documents\core_course_doc\decorator\app1\Pizza\bin\Debug\netcoreapp3.1\Pizza.deps.json
+C:\0_Projects\documents\core_course_doc\decorator\app1\Pizza\bin\Debug\netcoreapp3.1\Pizza.runtimeconfig.json
+C:\0_Projects\documents\core_course_doc\decorator\app1\Pizza\bin\Debug\netcoreapp3.1\Pizza.runtimeconfig.dev.json
+C:\0_Projects\documents\core_course_doc\decorator\app1\Pizza\bin\Debug\netcoreapp3.1\Pizza.dll
+C:\0_Projects\documents\core_course_doc\decorator\app1\Pizza\bin\Debug\netcoreapp3.1\Pizza.pdb
+C:\0_Projects\documents\core_course_doc\decorator\app1\Pizza\obj\Debug\netcoreapp3.1\Pizza.csprojAssemblyReference.cache
+C:\0_Projects\documents\core_course_doc\decorator\app1\Pizza\obj\Debug\netcoreapp3.1\Pizza.AssemblyInfoInputs.cache
+C:\0_Projects\documents\core_course_doc\decorator\app1\Pizza\obj\Debug\netcoreapp3.1\Pizza.AssemblyInfo.cs
+C:\0_Projects\documents\core_course_doc\decorator\app1\Pizza\obj\Debug\netcoreapp3.1\Pizza.dll
+C:\0_Projects\documents\core_course_doc\decorator\app1\Pizza\obj\Debug\netcoreapp3.1\Pizza.pdb
